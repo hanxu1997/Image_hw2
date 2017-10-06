@@ -1,4 +1,3 @@
-%sdds
 clc;
 clear;
 figure(1);
