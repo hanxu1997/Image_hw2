@@ -27,7 +27,7 @@ subplot(2,2,4);
 imshow(output_img3);
 title('11*11 average filter');
 
-% subplot(2,2,4);
-% K1=filter2(fspecial('average',3),input_img)/255;
-% imshow(K1);
+
+
+
 
